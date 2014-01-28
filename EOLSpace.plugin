@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=eolspace
+IAge=3
+Name=EOLSpace
+Description=Visually mark spaces at the end of lines.
+Authors=Espen Helgedagsrud
+Copyright=Copyright © 2012
+Website=http://github.com/espenoh
